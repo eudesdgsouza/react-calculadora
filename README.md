@@ -1,6 +1,10 @@
 # 🧮 Calculadora-React  
 
-Este projeto é uma calculadora elegante e responsiva, desenvolvida com **React**, que conta com funções matemáticas avançadas e animações suaves.  
+Este projeto é uma calculadora elegante e responsiva, desenvolvida com **React**, que conta com funções matemáticas avançadas e animações suaves.
+
+## Deploy
+
+- [Live](https://react-calculadora-phi.vercel.app/)
 
 ## 🚀 Funcionalidades  
 
